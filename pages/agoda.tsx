@@ -126,7 +126,7 @@ const agoda = () => {
                     <div className="flex justify-end  h-64 w-64  mr-5 bg-center bg-cover bg-[url(https://pix8.agoda.net/hotelImages/8166708/-1/73cf65b15aece62bc72e14626bc9ab8e.jpg?ca=28&ce=0&s=1024x768)]">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="#56AAFF" viewBox="0 0 24 24" strokeWidth="0" stroke="currentColor" className="w-16 h-16 absolute mr-3">
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 12.76c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 011.037-.443 48.282 48.282 0 005.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
-                                <text x="50%" y="50%" dominantBaseline="middle" textAnchor="middle" className="text-white" font-size="8" strokeWidth="1">8.9</text>   
+                                <text x="50%" y="50%" dominantBaseline="middle" textAnchor="middle" className="text-white" fontSize="8" strokeWidth="1">8.9</text>   
                             </svg>
                         </div>
                         <div className="w-64">
