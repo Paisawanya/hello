@@ -71,7 +71,7 @@ const homePage = () => {
                             </div>
                             <div className="font-light">
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don &apos; t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn t anything embarrassing hidden in the middle of text.
                                 </p>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ const homePage = () => {
                 </div>
             </div>
             <div className="line-footer text-center ">
-                <label className="text-white text-xs inline-block align-text-top">SPY S'R 2022</label>
+                <label className="text-white text-xs inline-block align-text-top">SPY SR 2022</label>
             </div>
         </>
     )

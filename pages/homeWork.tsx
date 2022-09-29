@@ -85,7 +85,7 @@ const login = () => {
                     </div>
                     <div className=" ml-40  text-center border-4 flex flex-col justify-center items-center h-48 ">
                         <span className="text-xl  ">CAFE </span>
-                        <p>You can't be sad when you are holding a cupcake</p>
+                        <p>You can t be sad when you are holding a cupcake</p>
                     </div>
 
 
