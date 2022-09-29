@@ -24,3 +24,13 @@ a {
     background: black;
   }
 }
+.container {
+  padding: 1rem;
+  max-width: 100% !important;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
