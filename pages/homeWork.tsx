@@ -31,7 +31,7 @@ const login = () => {
                         Web Development
                     </span>
                     <p className="font-extralight pt-2 pb-2">
-                        Lorem Ipsum is si mply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+                        Lorem Ipsum is si mply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry   standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
                     </p>
                     <button className="py-3 px-8 bg-blue-300 rounded-xl">start</button>
                     <i className="fa fa-fan text-7xl"></i>
